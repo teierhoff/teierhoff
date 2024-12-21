@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @teierhoff
+- 👀 I’m interested in machine learning algorithms.
+- 🌱 I’m currently learning Swift to design apps.
+- ⚡ Fun fact: The programming language I primarily use is COBOL.
